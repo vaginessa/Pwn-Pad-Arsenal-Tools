@@ -11,11 +11,11 @@ Hope that it will help to somebody.
 Content
 =======
 
-Take me to [Privacy applications](#privacy)
-Take me to [File Browsers](#file-browsers)
-Take me to [Network Tools](#network-tools)
-Take me to [RFID Tools](#rfid-tools)
-Take me to [Wireless Tools](#wireless-tools)
+1. Take me to [Privacy applications](#privacy)
+2. Take me to [File Browsers](#file-browsers)
+3. Take me to [Network Tools](#network-tools)
+4. Take me to [RFID Tools](#rfid-tools)
+5. Take me to [Wireless Tools](#wireless-tools)
 
 Privacy applications
 --------------------
